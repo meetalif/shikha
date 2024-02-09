@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "41401cdb8ec43ee51e6f940c7917ce46
 "assets/assets/images/shikha_logo.png": "a9ee75bed995abb74c2aaabee0f7f09f",
 "assets/FontManifest.json": "b59170d7d4addac8c5eba235618de84b",
 "assets/fonts/MaterialIcons-Regular.otf": "75b46cf29dc34a1df0825b8b77ae6a29",
-"assets/NOTICES": "9df67c068481d2d0513abac26202be87",
+"assets/NOTICES": "c9b8f17abfc90e3e32814f0d1fb5f22c",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "1f0d8a94e2eb664bec8616ddbde97ed0",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "6a738868f7f0db90ddd68d554d431019",
 "assets/packages/fluttertoast/assets/toastify.css": "910ddaaf9712a0b0392cf7975a3b7fb5",
@@ -178,9 +178,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "41401cdb8ec43ee51e6f940c7917ce46
 "icons/Icon-512.png": "72fc440718ca304bdc4d8e99aae3da90",
 "icons/Icon-maskable-192.png": "53e980bc068758e5216056800f6110dc",
 "icons/Icon-maskable-512.png": "a9ee75bed995abb74c2aaabee0f7f09f",
-"index.html": "7df1f5a8069ec76020e73c568bfbe3c8",
-"/": "7df1f5a8069ec76020e73c568bfbe3c8",
-"main.dart.js": "8ed0cc43e6e916dab8ddcd67927f1eca",
+"index.html": "5385162d01a8be3d84b0a8a9b5436f93",
+"/": "5385162d01a8be3d84b0a8a9b5436f93",
+"main.dart.js": "f10654071f5e310442647177a3a722f2",
 "manifest.json": "e53448f7c26600a3091c3502412c2953",
 "version.json": "a4410f22b849f8869a2a0b46da97bf09"};
 // The application shell files that are downloaded before a service worker can
