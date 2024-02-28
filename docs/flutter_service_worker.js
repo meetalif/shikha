@@ -9,8 +9,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "41401cdb8ec43ee51e6f940c7917ce46
 "assets/assets/images/logo.png": "f28b32c05614846377bd8b8e48e01a1f",
 "assets/assets/images/shikha_logo.png": "a9ee75bed995abb74c2aaabee0f7f09f",
 "assets/FontManifest.json": "b59170d7d4addac8c5eba235618de84b",
-"assets/fonts/MaterialIcons-Regular.otf": "e556305df4545cf11db1f635c807cf30",
-"assets/NOTICES": "42b590614d9b5fdad96d0b3d35bb2d5e",
+"assets/fonts/MaterialIcons-Regular.otf": "bab04b9dfcf957dc97fb5c76dc2c442d",
+"assets/NOTICES": "c308cd7cbc7766c234354b197873b3dc",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "084b2fe7d010cd3be5bcd644d39a8b05",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "0164a482510fc0a89003dcb1de459bfd",
 "assets/packages/fluttertoast/assets/toastify.css": "910ddaaf9712a0b0392cf7975a3b7fb5",
@@ -181,9 +181,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "41401cdb8ec43ee51e6f940c7917ce46
 "icons/Icon-512.png": "72fc440718ca304bdc4d8e99aae3da90",
 "icons/Icon-maskable-192.png": "53e980bc068758e5216056800f6110dc",
 "icons/Icon-maskable-512.png": "a9ee75bed995abb74c2aaabee0f7f09f",
-"index.html": "f00a074280f2758b25e51a9517ae529a",
-"/": "f00a074280f2758b25e51a9517ae529a",
-"main.dart.js": "acf2d9e273dd56e161da6907233080e4",
+"index.html": "b2411cc9f02b837d67b4af2eaf78ae88",
+"/": "b2411cc9f02b837d67b4af2eaf78ae88",
+"main.dart.js": "3580edc8918a8ff951eb58afd6cf933a",
 "manifest.json": "e53448f7c26600a3091c3502412c2953",
 "version.json": "a4410f22b849f8869a2a0b46da97bf09"};
 // The application shell files that are downloaded before a service worker can
