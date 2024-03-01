@@ -27302,7 +27302,7 @@ a1=a1==null?a2:a1.b
 a1=a1===!0?a3:""
 o=A.fa(new A.aA(a7,new A.ay0(),o))
 o=o==null?a2:o.c
-return'<html>\n<style>\n    body {\n        background-color: #FFFFFF;\n        \n        \n    }\n\n    #mymain {\n        width: 100%;\n        display: flex;\n    }\n</style>\n\n<body>   <script>\n        window.onload = function() {\n            window.print();\n        };\n    </script>\n\n    <center>\n        <h1>Lund & Browder Chart</h1>\n        <p>Modified Lund & Browder Chart for Assessment of Burn</p>\n    </center>\n</br>\n    <div id="myDIV">\n        <div id="mymain">\n            <div id="bluediv">\n                <img src="data:image/png;base64,'+a9+'" alt="Placeholder image" style="width: 420px; height: 370px;"> \n         </br>\n         </br>\n        <p style="max-width: 420px;">'+b5+'</p>\n        </br>      </div>\n            <div style="padding: 0px 0px 0px 20px;"><b>Name:</b> '+b4+" </br>\n                <b>Age:</b> "+a6+" years </br>\n                <b>TBSA:</b> "+a5+" % </br>\n                <b>Patient Type:</b> "+s+"</br>\n                <b>Body Weight:</b> "+q+" KG </br>\n                <b>Fluid Already Given:</b> "+r+" mL </br>\n                <b>Sex:</b> "+b6+" </br>\n                <b>Date of Admission:</b> "+b2+" </br>\n                <b>Type of Burn:</b> "+b7+" </br>\n                <b>Date of Burn:</b> "+b3+" </br>\n                <b>Date Completed:</b> "+b1+" </br>\n                <b>Completed by:</b> "+b0+" </br>\n                <b>Co Morbidities:</b>\n                "+p+'\n                </br>\n                </br>\n\n                <div>\n                    <input type="checkbox" '+n+'>\n                    O2 inhalation\n                </div>\n                <div>\n                    <input type="checkbox" '+m+">\n                    Nebulization with <b>"+A.j(l)+'</b>\n                </div>\n                <div>\n                    <input type="checkbox" '+k+'>\n                    Analgesic\n                </div>\n                <div>\n                    <input type="checkbox" '+j+'>\n                    NG Feeding\n                </div>\n                <div>\n                    <input type="checkbox" '+i+'>\n                    Antibiotic\n                </div>\n                <div>\n                    <input type="checkbox"'+h+'>\n                    Antiulcerant\n                </div>\n                <div>\n                    <input type="checkbox"'+g+'>\n                    Tetanus Prophylaxis\n                </div>\n                <div>\n                    <input type="checkbox"'+f+">\n                    Central Venous Catheter@ <b>"+A.j(e)+a4+d+'>\n                    Urinary Catheter\n                </div>\n                <div>\n                    <input type="checkbox"'+c+'>\n                    Eye Drop/Ointment\n                </div>\n                <div>\n                    <input type="checkbox"'+b+">\n                    Dressing with <b>"+A.j(a)+a4+a0+'>\n                    Counseling\n                </div>\n                <div>\n                    <input type="checkbox"'+a1+">\n                    Referral to <b>"+A.j(o)+"</b>\n                </div>\n            </div>\n        </div>\n\n        <br/>\n       "+A.aZa()+'\n        <br/>\n        <center>\n            <p><img alt="" src="https://firebasestorage.googleapis.com/v0/b/shikha-meetalif.appspot.com/o/line.png?alt=media&token=812cd16b-b152-49fa-a51c-4cd2aa20ed26" style="width: 645.58px; height: 3.00px;"></p>\n            <p><img alt="" src="https://firebasestorage.googleapis.com/v0/b/shikha-meetalif.appspot.com/o/shikha_logo.png?alt=media&token=24bd28e0-0fa2-4268-b790-ddc112cfa859" style="width: 57.50px; height: 57.50px;"></p>\n            <p>Shikha App</p>\n            <p>All rights reserved.</p>\n        </center>\n</body>\n\n</html>'},
+return'<html>\n<style>\n    body {\n        background-color: #FFFFFF;\n        \n        \n    }\n\n    #mymain {\n        width: 100%;\n        display: flex;\n    }\n</style>\n\n<body>   <script>\n        window.onload = function() {\n            window.print();\n        };\n    </script>\n\n    <center>\n        <h1>Lund & Browder Chart</h1>\n        <p>Modified Lund & Browder Chart for Assessment of Burn</p>\n    </center>\n</br>\n    <div id="myDIV">\n        <div id="mymain">\n            <div id="bluediv">\n                <img src="data:image/png;base64,'+a9+'" alt="Placeholder image" style="width: 420px; height: 370px;"> \n         </br>\n         </br>\n        <p style="max-width: 420px;">'+b5+'</p>\n        </br>      </div>\n            <div style="padding: 0px 0px 0px 20px;"><b>Name:</b> '+b4+" </br>\n                <b>Age:</b> "+a6+" years </br>\n                <b>TBSA:</b> "+a5+" % </br>\n                <b>Patient Type:</b> "+s+"</br>\n                <b>Body Weight:</b> "+q+" KG </br>\n                <b>Fluid Already Given:</b> "+r+" mL </br>\n                <b>Sex:</b> "+b6+" </br>\n                <b>Date of Admission:</b> "+b2+" </br>\n                <b>Type of Burn:</b> "+b7+" </br>\n                <b>Date of Burn:</b> "+b3+" </br>\n                <b>Date Completed:</b> "+b1+" </br>\n                <b>Completed by:</b> "+b0+" </br>\n                <b>Co Morbidities:</b>\n                "+p+'\n                </br>\n                </br>\n\n                <div>\n                    <input type="checkbox" '+n+'>\n                    O2 inhalation\n                </div>\n                <div>\n                    <input type="checkbox" '+m+">\n                    Nebulization with <b>"+A.j(l)+'</b>\n                </div>\n                <div>\n                    <input type="checkbox" '+k+'>\n                    Analgesic\n                </div>\n                <div>\n                    <input type="checkbox" '+j+'>\n                    NG Feeding\n                </div>\n                <div>\n                    <input type="checkbox" '+i+'>\n                    Antibiotic\n                </div>\n                <div>\n                    <input type="checkbox"'+h+'>\n                    Antiulcerant\n                </div>\n                <div>\n                    <input type="checkbox"'+g+'>\n                    Tetanus Prophylaxis\n                </div>\n                <div>\n                    <input type="checkbox"'+f+">\n                    Central Venous Catheter <b>"+A.j(e)+a4+d+'>\n                    Urinary Catheter\n                </div>\n                <div>\n                    <input type="checkbox"'+c+'>\n                    Eye Drop/Ointment\n                </div>\n                <div>\n                    <input type="checkbox"'+b+">\n                    Dressing with <b>"+A.j(a)+a4+a0+'>\n                    Counseling\n                </div>\n                <div>\n                    <input type="checkbox"'+a1+">\n                    Referral to <b>"+A.j(o)+"</b>\n                </div>\n            </div>\n        </div>\n\n        <br/>\n       "+A.aZa()+'\n        <br/>\n        <center>\n            <p><img alt="" src="https://firebasestorage.googleapis.com/v0/b/shikha-meetalif.appspot.com/o/line.png?alt=media&token=812cd16b-b152-49fa-a51c-4cd2aa20ed26" style="width: 645.58px; height: 3.00px;"></p>\n            <p><img alt="" src="https://firebasestorage.googleapis.com/v0/b/shikha-meetalif.appspot.com/o/shikha_logo.png?alt=media&token=24bd28e0-0fa2-4268-b790-ddc112cfa859" style="width: 57.50px; height: 57.50px;"></p>\n            <p>Shikha App</p>\n            <p>All rights reserved.</p>\n        </center>\n</body>\n\n</html>'},
 aZa(){var s,r,q,p,o='<td style="border:1px solid black; padding:10px;">',n=Date.now()
 A.q5("hh:mm a").k0(new A.aP(n,!1))
 s=A.aZb()
@@ -29189,7 +29189,7 @@ if(p==null)p=0
 s=$.c8()
 s.cx="0 mL/hour"
 s.ay=0
-if(a1<=0||p<0||q>24)return"Invalid Input or The 24 hours golden hour has already passed. Please use clinical judgment to proceed further."
+if(a1<=0||p<0||q>24)return"The 24 hours golden hour has already passed. Please use clinical judgment to proceed further."
 if(!(a0==="Adult"&&a<=15))r=a0==="Child"&&a<=10
 else r=!0
 if(r)return"This patient may not need fluid resuscitation. Please use clinical judgement to proceed further."
@@ -91337,10 +91337,10 @@ A.ay5.prototype={
 $1(a){return a.a==="Tetanus Prophylaxis"},
 $S:13}
 A.ay6.prototype={
-$1(a){return a.a==="Central Venous Catheter@"},
+$1(a){return a.a==="Central Venous Catheter"},
 $S:13}
 A.ay7.prototype={
-$1(a){return a.a==="Central Venous Catheter@"},
+$1(a){return a.a==="Central Venous Catheter"},
 $S:13}
 A.ay8.prototype={
 $1(a){return a.a==="Urinary Catheter"},
@@ -91417,7 +91417,7 @@ h=A.dV(12)
 g=A.dM(p).p3.gck().Hl(17)
 i=A.c_("Select Target Urine Output",q,q,q,A.dM(p).p3.gck(),q,q)
 s=r.d
-c=A.b([B.N,m,B.N,B.l7,B.as,l,B.N,B.Zi,B.as,k,B.N,B.Zr,B.as,j,B.N,B.l6,B.as,f,B.N,B.Zm,B.as,A.a6F(B.aE,h,i,A.aa(new A.a0(A.b(["0.5 - 1 mL/hour/kg","1 - 2 mL/hour/kg"],t.s),new A.api(),e),!0,d),new A.apj(r),g,q,s,c),B.N,A.aEI(B.Ak,new A.apb(r)),B.N],t.p)
+c=A.b([B.N,m,B.N,B.l7,B.as,l,B.N,B.Zh,B.as,k,B.N,B.Zq,B.as,j,B.N,B.l6,B.as,f,B.N,B.Zl,B.as,A.a6F(B.aE,h,i,A.aa(new A.a0(A.b(["0.5 - 1 mL/hour/kg","1 - 2 mL/hour/kg"],t.s),new A.api(),e),!0,d),new A.apj(r),g,q,s,c),B.N,A.aEI(B.Ak,new A.apb(r)),B.N],t.p)
 if(r.f!=null){m=A.dV(12)
 l=A.L(B.d.aL(25.5),158,158,158)
 p=A.dM(p).cx
@@ -91533,7 +91533,7 @@ f=A.dM(s).p3.gck().Hl(17)
 s=A.c_("Select Drop Factor for IV Cannula Set",c,c,c,A.dM(s).p3.gck(),c,c)
 o=o.cy.gl(0)
 e=t.fo
-return A.d3(c,A.azE(c,A.e5(A.b([q,B.N,p,B.N,B.Ag,B.as,n,B.N,B.Ai,B.as,m,B.N,B.Aj,B.as,l,B.N,B.l7,B.as,k,B.N,B.Ah,B.as,j,B.N,B.Zo,B.as,h,B.N,B.l6,B.as,A.a6F(B.aE,g,s,A.aa(new A.a0(B.oz,new A.aqm(),e),!0,e.h("aB.E")),new A.aqn(d),f,new A.aqo(),o,t.N),B.N,A.aEI(B.Ak,new A.aqp(d)),B.N],i),B.b9,B.L,B.aa),d.d),B.q,r.ax,c,c,c,c,c,B.ns,c,c,b)}}
+return A.d3(c,A.azE(c,A.e5(A.b([q,B.N,p,B.N,B.Ag,B.as,n,B.N,B.Ai,B.as,m,B.N,B.Aj,B.as,l,B.N,B.l7,B.as,k,B.N,B.Ah,B.as,j,B.N,B.Zn,B.as,h,B.N,B.l6,B.as,A.a6F(B.aE,g,s,A.aa(new A.a0(B.oz,new A.aqm(),e),!0,e.h("aB.E")),new A.aqn(d),f,new A.aqo(),o,t.N),B.N,A.aEI(B.Ak,new A.aqp(d)),B.N],i),B.b9,B.L,B.aa),d.d),B.q,r.ax,c,c,c,c,c,B.ns,c,c,b)}}
 A.aqz.prototype={
 $0(){A.azG($.bY(),new A.aqy(),t.z)},
 $S:0}
@@ -91615,9 +91615,7 @@ $4$currentLength$isFocused$maxLength(a,b,c,d){return B.a1},
 $S:34}
 A.aqj.prototype={
 $1(a){var s=A.dd(a==null?"0":a,null)
-if(s==null)s=0
-if(s<0)return"Value Must be Positive Number."
-else if(s>23)return"Timeframe should be below 24 hours."
+if((s==null?0:s)<0)return"Value Must be Positive Number."
 return null},
 $S:16}
 A.aqk.prototype={
@@ -91647,14 +91645,14 @@ if(q.e.ax.gl(0)<=0){s=q.c.af(t.Pu)
 s.toString
 q=q.c
 q.toString
-s.f.Lr(A.aAv(r,r,r,r,B.hH,B.E,r,B.Zq,r,B.nn,r,r,r,r,r,r,B.yM,r,A.br(q,r,t.w).w.a.a>700?500:r))
+s.f.Lr(A.aAv(r,r,r,r,B.hH,B.E,r,B.Zp,r,B.nn,r,r,r,r,r,r,B.yM,r,A.br(q,r,t.w).w.a.a>700?500:r))
 return}if(q.d.gL().wS())A.azG($.bY(),new A.aqc(),t.z)},
 $S:0}
 A.aqc.prototype={
 $0(){return B.Sa},
 $S:550}
 A.rz.prototype={
-ag(){var s,r,q=null,p="...",o="0",n=A.b([new A.eJ("O2 inhalation",""),new A.eJ("Nebulization with",p),new A.eJ("NG feeding",""),new A.eJ("Analgesic",""),new A.eJ("Antibiotic",""),new A.eJ("Antiulcerant",""),new A.eJ("Tetanus Prophylaxis",""),new A.eJ("Central Venous Catheter@",p),new A.eJ("Urinary Catheter",""),new A.eJ("Eye drop/Ointment",""),new A.eJ("Dressing with",p),new A.eJ("Counselling",""),new A.eJ("Referral to",p)],t.ll),m=t.s,l=A.b(["Diabetes","Hypertension","Ischemic Heart Disease","Bronchial","Asthma","COPD","CKD","Others"],m),k=A.b([],m),j=A.b([],t.gf),i=A.aRV(!0,q,B.R5,!1,B.R7),h=!1
+ag(){var s,r,q=null,p="...",o="0",n=A.b([new A.eJ("O2 inhalation",""),new A.eJ("Nebulization with",p),new A.eJ("NG feeding",""),new A.eJ("Analgesic",""),new A.eJ("Antibiotic",""),new A.eJ("Antiulcerant",""),new A.eJ("Tetanus Prophylaxis",""),new A.eJ("Central Venous Catheter",p),new A.eJ("Urinary Catheter",""),new A.eJ("Eye drop/Ointment",""),new A.eJ("Dressing with",p),new A.eJ("Counselling",""),new A.eJ("Referral to",p)],t.ll),m=t.s,l=A.b(["Diabetes","Hypertension","Ischemic Heart Disease","Bronchial","Asthma","COPD","CKD","Others"],m),k=A.b([],m),j=A.b([],t.gf),i=A.aRV(!0,q,B.R5,!1,B.R7),h=!1
 if(h){h=t.Xn
 s=A.r(t.N,h)
 s.p(0,"/Producer",new A.vI(A.aG9("https://github.com/DavBfr/dart_pdf"),B.v1,!0))
@@ -91713,8 +91711,8 @@ s.aO()
 s.x.sf4(0,A.q5(r).k0(new A.aP(Date.now(),!1)))
 s.y.sf4(0,A.q5(r).k0(new A.aP(Date.now(),!1)))
 s.z.sf4(0,A.q5(r).k0(new A.aP(Date.now(),!1)))},
-J(a){var s=this,r=null,q=$.bY(),p=A.dM(q),o=t.p,n=A.aHG(A.b([A.Ey(B.Ze,new A.asw(s),r)],o),r),m=A.dM(q),l=A.br(a,r,t.w).w.a.a>800?700:r,k=t.N
-return A.alz(n,p.ax,A.fq(A.Ru(A.d3(r,A.cm(new A.bP(B.nt,A.e5(A.b([A.fq(new A.Th(A.hI(A.b([A.cm(new A.nF(0.5625,A.S4(A.aBS($.c8().ch),1/0),r),r,180),A.cm(new A.nF(0.5625,A.S4(A.aBD($.c8().ch),1/0),r),r,180)],o),B.al,B.L,B.bl,r),s.ax,r),r,r),B.N,A.cm(A.aDS(B.P_,s.as,new A.asx(s),B.D,k),r,1/0),B.N,B.ZA,B.as,A.ha(!1,B.aE,r,s.w,B.K3,r,r,B.eT,r,r,r,r,B.aZ,r),B.N,B.Zy,B.as,A.a6F(r,r,B.Zz,B.Lq,new A.asy(s),A.dM(q).p3.gck(),r,r,k),B.N,B.Zl,B.as,A.hv(r,A.ha(!1,B.aE,r,s.y,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asz(s,a),r,r,r,r,r,r),B.N,B.Zs,B.as,A.hv(r,A.ha(!1,B.aE,r,s.x,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asA(s,a),r,r,r,r,r,r),B.N,B.Zd,B.as,A.hv(r,A.ha(!1,B.aE,r,s.z,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asB(s,a),r,r,r,r,r,r),B.N,B.Zx,B.as,A.ha(!1,B.aE,r,s.Q,B.K9,r,r,B.eT,r,r,r,r,B.aZ,r),B.N,B.Zb,B.as,A.aFz(new A.asC(s),8,B.uN,!0),B.N,B.Zc,B.as,A.aFz(new A.asD(s),13,B.uN,!0)],o),B.b9,B.L,B.aa),r),r,l),B.q,m.ax,r,r,r,r,r,r,r,r,r),r,r,B.ap),r,r))}}
+J(a){var s=this,r=null,q=$.bY(),p=A.dM(q),o=t.p,n=A.aHG(A.b([A.Ey(B.Zd,new A.asw(s),r)],o),r),m=A.dM(q),l=A.br(a,r,t.w).w.a.a>800?700:r,k=t.N
+return A.alz(n,p.ax,A.fq(A.Ru(A.d3(r,A.cm(new A.bP(B.nt,A.e5(A.b([A.fq(new A.Th(A.hI(A.b([A.cm(new A.nF(0.5625,A.S4(A.aBS($.c8().ch),1/0),r),r,180),A.cm(new A.nF(0.5625,A.S4(A.aBD($.c8().ch),1/0),r),r,180)],o),B.al,B.L,B.bl,r),s.ax,r),r,r),B.N,A.cm(A.aDS(B.P_,s.as,new A.asx(s),B.D,k),r,1/0),B.N,B.ZA,B.as,A.ha(!1,B.aE,r,s.w,B.K3,r,r,B.eT,r,r,r,r,B.aZ,r),B.N,B.Zy,B.as,A.a6F(r,r,B.Zz,B.Lq,new A.asy(s),A.dM(q).p3.gck(),r,r,k),B.N,B.Zk,B.as,A.hv(r,A.ha(!1,B.aE,r,s.y,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asz(s,a),r,r,r,r,r,r),B.N,B.Zr,B.as,A.hv(r,A.ha(!1,B.aE,r,s.x,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asA(s,a),r,r,r,r,r,r),B.N,B.Zc,B.as,A.hv(r,A.ha(!1,B.aE,r,s.z,B.jk,!1,r,B.eT,r,r,r,r,B.aZ,r),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.asB(s,a),r,r,r,r,r,r),B.N,B.Zx,B.as,A.ha(!1,B.aE,r,s.Q,B.K9,r,r,B.eT,r,r,r,r,B.aZ,r),B.N,B.Zb,B.as,A.aFz(new A.asC(s),8,B.uN,!0),B.N,B.Zv,B.as,A.aFz(new A.asD(s),13,B.uN,!0)],o),B.b9,B.L,B.aa),r),r,l),B.q,m.ax,r,r,r,r,r,r,r,r,r),r,r,B.ap),r,r))}}
 A.asw.prototype={
 $0(){var s=0,r=A.T(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$$0=A.U(function(a1,a2){if(a1===1){p=a2
@@ -91804,7 +91802,7 @@ $1(a){this.a.c=a},
 $S:29}
 A.eJ.prototype={}
 A.w8.prototype={
-J(a){var s,r,q,p,o=null,n=t.p,m=A.aHG(A.b([A.Ey(B.Zg,new A.ahi(),o)],n),"Result"),l=$.bY(),k=A.dM(l),j=A.br(a,o,t.w).w.a.a>800?700:o,i=A.c_("Patient Informations",o,o,o,A.dM(l).p3.geL(),B.cY,o),h=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ai,A.c_(""+J.yG($.c8().ax.gl(0))+" %",o,o,o,o,o,o),o),g=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Zw,A.c_($.c8().CW.gl(0),o,o,o,o,o,o),o),f=$.c8(),e=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ag,A.c_(f.db.a.a+" Age",o,o,o,o,o,o),o),d=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.l7,A.c_(f.dy.a.a+" KG",o,o,o,o,o,o),o),c=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ah,A.c_(f.fx.a.a+" mL",o,o,o,o,o,o),o)
+J(a){var s,r,q,p,o=null,n=t.p,m=A.aHG(A.b([A.Ey(B.Zf,new A.ahi(),o)],n),"Result"),l=$.bY(),k=A.dM(l),j=A.br(a,o,t.w).w.a.a>800?700:o,i=A.c_("Patient Informations",o,o,o,A.dM(l).p3.geL(),B.cY,o),h=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ai,A.c_(""+J.yG($.c8().ax.gl(0))+" %",o,o,o,o,o,o),o),g=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Zw,A.c_($.c8().CW.gl(0),o,o,o,o,o,o),o),f=$.c8(),e=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ag,A.c_(f.db.a.a+" Age",o,o,o,o,o,o),o),d=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.l7,A.c_(f.dy.a.a+" KG",o,o,o,o,o,o),o),c=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Ah,A.c_(f.fx.a.a+" mL",o,o,o,o,o,o),o)
 f=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.l6,A.c_(f.cy.gl(0),o,o,o,o,o,o),o)
 s=A.ic(!1,o,o,o,!0,o,!1,o,o,o,!1,o,o,o,o,o,B.Aj,A.c_($.c8().fr.a.a+" mL/kg/TBSA",o,o,o,o,o,o),o)
 r=A.dM(l).cx
@@ -91868,7 +91866,7 @@ $.c8().ax.sl(0,0)
 s=this.b
 r=s.af(t.Pu)
 r.toString
-r.f.Lr(A.aAv(q,q,q,q,B.hH,B.E,q,B.Zt,q,B.nn,q,q,q,q,q,q,B.yM,q,A.br(s,q,t.w).w.a.a>700?500:q))
+r.f.Lr(A.aAv(q,q,q,q,B.hH,B.E,q,B.Zs,q,B.nn,q,q,q,q,q,q,B.yM,q,A.br(s,q,t.w).w.a.a>700?500:q))
 this.a.a9(new A.amR())},
 $S:0}
 A.amR.prototype={
@@ -98396,8 +98394,8 @@ B.OJ=new A.cE([50,B.mU,100,B.iD,200,B.iC,300,B.Fj,400,B.F5,500,B.mE,600,B.iy,700
 B.c6=new A.vn(B.OJ,4280391411)
 B.Af=new A.p(!0,B.c6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bD=new A.n_(2,"center")
-B.Zp=new A.bK(u.H,null,B.Af,B.bD,null,null,null,null,null,null)
-B.Ef=new A.kA(B.U,null,null,B.Zp,null)
+B.Zo=new A.bK(u.H,null,B.Af,B.bD,null,null,null,null,null,null)
+B.Ef=new A.kA(B.U,null,null,B.Zo,null)
 B.Eg=new A.u4(null,null,null,null,null,null,null,null,null)
 B.Eh=new A.zn(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.mn=new A.e4(0,B.l)
@@ -98996,12 +98994,12 @@ B.of=A.b(s([0,4,12,1,5,13,3,7,15]),t.t)
 B.Lp=A.b(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
 B.ZC=new A.bK("Flame",null,null,null,null,null,null,null,null,null)
 B.Ig=new A.f5("Flame",B.ZC,B.cv,null,t.b7)
-B.Zv=new A.bK("Electrical",null,null,null,null,null,null,null,null,null)
-B.If=new A.f5("Electrical",B.Zv,B.cv,null,t.b7)
-B.Zj=new A.bK("Scald",null,null,null,null,null,null,null,null,null)
-B.Ic=new A.f5("Scald",B.Zj,B.cv,null,t.b7)
-B.Zh=new A.bK("Chemical",null,null,null,null,null,null,null,null,null)
-B.Ie=new A.f5("Chemical",B.Zh,B.cv,null,t.b7)
+B.Zu=new A.bK("Electrical",null,null,null,null,null,null,null,null,null)
+B.If=new A.f5("Electrical",B.Zu,B.cv,null,t.b7)
+B.Zi=new A.bK("Scald",null,null,null,null,null,null,null,null,null)
+B.Ic=new A.f5("Scald",B.Zi,B.cv,null,t.b7)
+B.Zg=new A.bK("Chemical",null,null,null,null,null,null,null,null,null)
+B.Ie=new A.f5("Chemical",B.Zg,B.cv,null,t.b7)
 B.ZB=new A.bK("Inhalation Injury",null,null,null,null,null,null,null,null,null)
 B.Id=new A.f5("Inhalation Injury",B.ZB,B.cv,null,t.b7)
 B.Lq=A.b(s([B.Ig,B.If,B.Ic,B.Ie,B.Id]),A.a5("u<f5<f>>"))
@@ -99644,10 +99642,10 @@ B.OF=new A.cE([B.kD,B.F,B.kA,B.F,B.kB,B.F,B.kC,B.F,B.zB,B.F,B.zy,B.F,B.zz,B.F,B.
 B.OG=new A.cE([0,"FontWeight.w100",1,"FontWeight.w200",2,"FontWeight.w300",3,"FontWeight.w400",4,"FontWeight.w500",5,"FontWeight.w600",6,"FontWeight.w700",7,"FontWeight.w800",8,"FontWeight.w900"],A.a5("cE<m,f>"))
 B.PM={Child:0,Adult:1}
 B.fs=new A.aL(0,4,0,4)
-B.Zu=new A.bK("Child",null,null,null,null,null,null,null,null,null)
-B.QW=new A.bP(B.fs,B.Zu,null)
-B.Zk=new A.bK("Adult",null,null,null,null,null,null,null,null,null)
-B.QY=new A.bP(B.fs,B.Zk,null)
+B.Zt=new A.bK("Child",null,null,null,null,null,null,null,null,null)
+B.QW=new A.bP(B.fs,B.Zt,null)
+B.Zj=new A.bK("Adult",null,null,null,null,null,null,null,null,null)
+B.QY=new A.bP(B.fs,B.Zj,null)
 B.OH=new A.b7(B.PM,[B.QW,B.QY],t.Fe)
 B.kN=new A.dG(1,"close")
 B.kS=new A.dG(2,"moveToAbs")
@@ -100149,10 +100147,10 @@ B.uv=new A.b7(B.b3,[],A.a5("b7<Em,@>"))
 B.OY=new A.b7(B.b3,[],A.a5("b7<hP,dc>"))
 B.uy=new A.b7(B.b3,[],A.a5("b7<hP,qD<dc>>"))
 B.PR={Male:0,Female:1}
-B.Zn=new A.bK("Male",null,null,null,null,null,null,null,null,null)
-B.QX=new A.bP(B.fs,B.Zn,null)
-B.Zf=new A.bK("Female",null,null,null,null,null,null,null,null,null)
-B.QV=new A.bP(B.fs,B.Zf,null)
+B.Zm=new A.bK("Male",null,null,null,null,null,null,null,null,null)
+B.QX=new A.bP(B.fs,B.Zm,null)
+B.Ze=new A.bK("Female",null,null,null,null,null,null,null,null,null)
+B.QV=new A.bP(B.fs,B.Ze,null)
 B.P_=new A.b7(B.PR,[B.QX,B.QV],t.Fe)
 B.P0=new A.cE([B.eO,B.ij],t.Fp)
 B.eX=new A.n4(3,"left")
@@ -101127,22 +101125,22 @@ B.XM=new A.p(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Za=new A.dQ(B.Xv,B.YO,B.Yt,B.VY,B.Ym,B.Xp,B.YT,B.Wx,B.X3,B.Yf,B.VP,B.Yv,B.Yj,B.Yb,B.XM)
 B.Zb=new A.bK("Co Morbidities",null,null,null,null,null,null,null,null,null)
 B.l6=new A.bK("Drop Factor for IV Cannula Set",null,null,null,null,null,null,null,null,null)
-B.Zc=new A.bK("Have you checked this?",null,null,null,null,null,null,null,null,null)
-B.Zd=new A.bK("Date Completed",null,null,null,null,null,null,null,null,null)
-B.Ze=new A.bK("Print",null,null,null,null,null,null,null,null,null)
-B.Zg=new A.bK("Next",null,null,null,null,null,null,null,null,null)
-B.Zi=new A.bK("Current Urine Output",null,null,null,null,null,null,null,null,null)
+B.Zc=new A.bK("Date Completed",null,null,null,null,null,null,null,null,null)
+B.Zd=new A.bK("Print",null,null,null,null,null,null,null,null,null)
+B.Zf=new A.bK("Next",null,null,null,null,null,null,null,null,null)
+B.Zh=new A.bK("Current Urine Output",null,null,null,null,null,null,null,null,null)
 B.l7=new A.bK("Body Weight",null,null,null,null,null,null,null,null,null)
-B.Zl=new A.bK("Date of Burn",null,null,null,null,null,null,null,null,null)
+B.Zk=new A.bK("Date of Burn",null,null,null,null,null,null,null,null,null)
 B.Ag=new A.bK("Age",null,null,null,null,null,null,null,null,null)
-B.Zm=new A.bK("Target Urine Output",null,null,null,null,null,null,null,null,null)
-B.Zo=new A.bK("Time Since Burn",null,null,null,null,null,null,null,null,null)
-B.Zq=new A.bK(u.H,null,null,null,null,null,null,null,null,null)
+B.Zl=new A.bK("Target Urine Output",null,null,null,null,null,null,null,null,null)
+B.Zn=new A.bK("Time Since Burn",null,null,null,null,null,null,null,null,null)
+B.Zp=new A.bK(u.H,null,null,null,null,null,null,null,null,null)
 B.Ah=new A.bK("Fluid Already Given",null,null,null,null,null,null,null,null,null)
-B.Zr=new A.bK("Previous Flow Rate",null,null,null,null,null,null,null,null,null)
-B.Zs=new A.bK("Date of Admission",null,null,null,null,null,null,null,null,null)
+B.Zq=new A.bK("Previous Flow Rate",null,null,null,null,null,null,null,null,null)
+B.Zr=new A.bK("Date of Admission",null,null,null,null,null,null,null,null,null)
 B.Ai=new A.bK("TBSA",null,null,null,null,null,null,null,null,null)
-B.Zt=new A.bK("Cleared all selected body parts",null,null,null,null,null,null,null,null,null)
+B.Zs=new A.bK("Cleared all selected body parts",null,null,null,null,null,null,null,null,null)
+B.Zv=new A.bK("Have you checked these?",null,null,null,null,null,null,null,null,null)
 B.Zw=new A.bK("Patient Type",null,null,null,null,null,null,null,null,null)
 B.Zx=new A.bK("Completed By",null,null,null,null,null,null,null,null,null)
 B.Zy=new A.bK("Type of Burn",null,null,null,null,null,null,null,null,null)
